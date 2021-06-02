@@ -25,11 +25,11 @@ public class AdController {
 	@ResponseBody
 	public String home() {
 		return "{" + "\"autor\":\"https://www.linkedin.com/in/mariobacellar/\","
-				+ "\"gtihub\":\"https://github.com/mariobacellar/admanager\"," + "\"resources\":[" + "{"
+				+ "\"gtihub\":\"https://github.com/mariobacellar/admanager_v1\"," + "\"resources\":[" + "{"
 				+ "\"Advertisement\":\" Advertisement management\","
-				+ "\"URL\":\"https://macro-admanager.herokuapp.com/api/admanager/ads \"" + "}," + "{"
+				+ "\"URL\":\"https://admanagerv1.herokuapp.com/api/admanager/ads \"" + "}," + "{"
 				+ "\"Advertisement\":\" Advertisement management\","
-				+ "\"URL\":\"https://macro-admanager.herokuapp.com/api/admanager/ads/1 \"" + "}" + "]" + "}";
+				+ "\"URL\":\"https://admanagerv1.herokuapp.com/api/admanager/ads/1 \"" + "}" + "]" + "}";
 	}
 
 	@RequestMapping("/ads")

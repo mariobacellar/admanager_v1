@@ -1,0 +1,27 @@
+{"AdSegmentations":[{
+  "adId" : null,
+  "adScore" : null,
+  "adViews" : null,
+  "adBgURL" : null,
+  "adTitle" : null,
+  "adType" : null,
+  "adDesc" : null,
+  "thankBG" : null,
+  "thankTitle" : null,
+  "thankDesc" : null,
+  "thankCTAType" : null,
+  "cTAName" : null
+},{
+  "adId" : null,
+  "adScore" : null,
+  "adViews" : null,
+  "adBgURL" : null,
+  "adTitle" : null,
+  "adType" : null,
+  "adDesc" : null,
+  "thankBG" : null,
+  "thankTitle" : null,
+  "thankDesc" : null,
+  "thankCTAType" : null,
+  "cTAName" : null
+}]}
